@@ -1,0 +1,1 @@
+nuitka --standalone --onefile --nofollow-import-to=scipy,PIL,sympy,matplotlib --enable-plugin=pyqt5 --windows-console-mod=disable --windows-icon-from-ico=flow-tree.ico main.py
